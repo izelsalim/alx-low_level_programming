@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
 * _strlen_recursion - Prints the length of a string.
 * @s: the string to be printed
@@ -19,11 +19,12 @@ int _strlen_recursion(char *s)
 */
 int pal_checker(char *s, int i, int j)
 {
-	if (s[i] == s[j])
-		if (i > j / 2)
-			return (1);
-		else
-			return (pal_checker(s, i + 1, j - 1));
+		if (s[i] == s[j])
+			if (i > j / 2)
+				return (1);
+	else
+
+		return (pal_checker(s, i + 1, j - 1));
 	else
 		return (0);
 }
