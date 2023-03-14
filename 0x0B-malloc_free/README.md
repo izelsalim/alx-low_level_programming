@@ -1,7 +1,3 @@
-#Name of the project
-0x0B. C - malloc, free
-
-
 #Requirements
 
 Allowed editors: vi, vim, emacs
@@ -32,4 +28,5 @@ Don’t forget to push your header file
 
 
 #Tasks (10%/100% Done)
-Task 0 "Float like a butterfly, sting like a bee"
+
+0-"Float like a butterfly, sting like a bee"
