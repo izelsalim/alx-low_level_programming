@@ -27,6 +27,9 @@ The prototypes of all your functions and the prototype of the function _putchar 
 Don’t forget to push your header file
 
 
-#Tasks (10%/100% Done)
+#Tasks (20%/100% Done)
 
 0-"Float like a butterfly, sting like a bee"
+
+1-"The woman who has no imagination has no wings"
+
