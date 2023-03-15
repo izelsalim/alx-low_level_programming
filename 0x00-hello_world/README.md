@@ -1,5 +1,7 @@
 ### 0x00. C - Hello, World
 
+![This is an image](https://github.com/salimizel/alx-low_level_programming/blob/master/0x00-hello_world/unnamed.jpg)
+
 ### Learning Objectives
 
 - Why C programming is awesome
