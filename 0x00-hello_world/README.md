@@ -13,13 +13,8 @@
 - [Learning to program in C part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU&ab_channel=JonathanEngelsma)
 - [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA&ab_channel=HowTo)
 - [Betty Coding Style](https://github.com/holbertonschool/Betty/wiki)
-- [Hash-bang under the hood ](https://twitter.com/unix_byte/status/1024147947393495040?s=21)
-- [Linus Torvalds on C vs. C++ ](http://harmful.cat-v.org/software/c++/linus)
-- []()
-
-
-
-
+- [Hash-bang under the hood ](https://twitter.com/unix_byte/status/1024147947393495040?s=21)*(Look at only after you finish consuming the other resources)*
+- [Linus Torvalds on C vs. C++ ](http://harmful.cat-v.org/software/c++/linus)*(Look at only after you finish consuming the other resources)*
 
 ### Learning Objectives
 
