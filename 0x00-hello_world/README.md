@@ -87,7 +87,7 @@
 
 
 
-### 7. Intel (advanced)
+### 7. Intel 	<sub>(advanced)</sub>
 
 + Write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
      - The C file name will be saved in the variable $CFILE.
