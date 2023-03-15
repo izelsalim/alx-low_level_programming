@@ -6,7 +6,7 @@
 <sub>Read or watch:</sub>
 
 - [Everything you need to know to start with C.pdf](https://intranet.alxswe.com/rltoken/P01aLj9BDfDUOv-y9x82Yw).*(You do not have to learn everything in there yet, but make sure you read it entirely first)*
-
+- [Dennis Ritchie](https://intranet.alxswe.com/rltoken/YWFrRob_-Yo-_NQikMLI-g)
 ### Learning Objectives
 
 - Why C programming is awesome
