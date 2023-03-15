@@ -2,8 +2,7 @@
 
 ![This is an image](https://github.com/salimizel/alx-low_level_programming/blob/master/0x00-hello_world/unnamed.jpg)
 
-### Resources
-<sub>Read or watch:</sub>
+### Resources<sub>Read or watch:</sub>
 
 Everything you need to know to start with C.pdf (You do not have to learn everything in there yet, but make sure you read it entirely first)
 Dennis Ritchie
