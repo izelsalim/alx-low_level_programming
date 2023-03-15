@@ -8,7 +8,14 @@
 - [Everything you need to know to start with C.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2022/4/e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230315%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230315T231915Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7e84e9960b729e13e764073641d9d06df769a8578079bbbf3181a6d66b81e99b) *(You do not have to learn everything in there yet, but make sure you read it entirely first)*
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 - [“C” Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M&ab_channel=Computerphile)
-
+- [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc&ab_channel=ChrisHawkes)
+- [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ&ab_channel=JonathanEngelsma)
+- [Learning to program in C part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU&ab_channel=JonathanEngelsma)
+- [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA&ab_channel=HowTo)
+- [Betty Coding Style](https://github.com/holbertonschool/Betty/wiki)
+- [Hash-bang under the hood ](https://twitter.com/unix_byte/status/1024147947393495040?s=21)
+- [Linus Torvalds on C vs. C++ ](http://harmful.cat-v.org/software/c++/linus)
+- []()
 
 
 
