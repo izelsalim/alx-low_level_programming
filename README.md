@@ -2,6 +2,5 @@
 
 <p align="center">
   <img src="https://em-content.zobj.net/thumbs/120/google/350/man-technologist_1f468-200d-1f4bb.png">
-  <img src="https://github.com/salimizel/alx-low_level_programming/blob/master/unnamed.png">
-  <img src="path/to/image.jpg" alt="https://github.com/salimizel/alx-low_level_programming/blob/master/unnamed.png" align="center" width="50%">
+  <img src="https://github.com/salimizel/alx-low_level_programming/blob/master/unnamed.png" width="50%">
 </p>
