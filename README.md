@@ -1,4 +1,4 @@
-<p align="center"><strong>This text will be centered and bold</strong></p>
+<h1 align="center"><strong>This text will be centered, bold, and big</strong></h1>
 
 <p align="center">
   <img src="https://em-content.zobj.net/thumbs/120/google/350/man-technologist_1f468-200d-1f4bb.png">
