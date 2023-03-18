@@ -1,4 +1,4 @@
-<p align="center">"### C Programming"</p>
+<p align="center"><strong>This text will be centered and bold</strong></p>
 
 <p align="center">
   <img src="https://em-content.zobj.net/thumbs/120/google/350/man-technologist_1f468-200d-1f4bb.png">
