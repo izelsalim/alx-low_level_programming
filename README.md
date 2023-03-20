@@ -1,9 +1,9 @@
 <p align="left">
-  <img src="https://github.com/salimizel/alx-low_level_programming/blob/master/unnamed.png" width="20%">
+  <img src="https://github.com/salimizel/alx-low_level_programming/blob/master/unnamed.png" width="10%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/salimizel/alx-low_level_programming/blob/master/logo-c-programmer-letter-c-986aae1d521ddc571e4323084753d5af.png" width="15%">
+  <img src="https://github.com/salimizel/alx-low_level_programming/blob/master/logo-c-programmer-letter-c-986aae1d521ddc571e4323084753d5af.png" width="20%">
 </p>
 
 ### Introduction
