@@ -10,7 +10,6 @@ void error(int err)
 {
 	printf("Error\n");
 	exit(err);
-
 }
 
 /**
@@ -54,12 +53,7 @@ int main(int argc, char *argv[])
 
 
 
-
-
-
-
-
-
+#"for future content related to ALX, follow me on github.(salimizel)"
 
 
 
