@@ -21,7 +21,7 @@ int op_sub(int a, int b)
 {
 	return (a - b);
 }
-#"make sure you follow me on github for more alx content(salimizel)"
+
 /**
  * op_mul - multiplies two integers
  * @a: first integer
