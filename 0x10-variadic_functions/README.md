@@ -1,1 +1,1 @@
-# 0x10.c-Variadic functionss
+# 0x10. C - Variadic functions
