@@ -2,7 +2,6 @@
 
 /**
  * premain - prints a string before the main function is executed
- *
  */
 __attribute__ ((constructor))
 	void premain(void)
